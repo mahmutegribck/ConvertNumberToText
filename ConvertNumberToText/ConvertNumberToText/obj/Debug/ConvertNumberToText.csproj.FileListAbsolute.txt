@@ -1,0 +1,17 @@
+C:\Users\mahmu\Desktop\ConvertNumberToText\MahmutEgribacak_B211210384_NDP_HW2\obj\Debug\ConvertNumberToText.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\MahmutEgribacak_B211210384_NDP_HW2\obj\Debug\ConvertNumberToText.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\MahmutEgribacak_B211210384_NDP_HW2\obj\Debug\ConvertNumberToText.Form1.resources
+C:\Users\mahmu\Desktop\ConvertNumberToText\MahmutEgribacak_B211210384_NDP_HW2\obj\Debug\ConvertNumberToText.Properties.Resources.resources
+C:\Users\mahmu\Desktop\ConvertNumberToText\MahmutEgribacak_B211210384_NDP_HW2\obj\Debug\ConvertNumberToText.csproj.GenerateResource.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\MahmutEgribacak_B211210384_NDP_HW2\obj\Debug\ConvertNumberToText.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\bin\Debug\ConvertNumberToText.exe.config
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\bin\Debug\ConvertNumberToText.exe
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\bin\Debug\ConvertNumberToText.pdb
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.Form1.resources
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.Properties.Resources.resources
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.csproj.GenerateResource.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.exe
+C:\Users\mahmu\Desktop\ConvertNumberToText\ConvertNumberToText\obj\Debug\ConvertNumberToText.pdb
